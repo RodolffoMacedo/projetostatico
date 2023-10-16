@@ -1,7 +1,7 @@
 <h1 align="center"> Projeto Pagina Estatica para viagens </h1>
 
 <p align="center">
-Pagina estatica, onde podemos agragar muito mais funções <br/>
+Pagina estatica, onde podemos agregar muito mais funções <br/>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
